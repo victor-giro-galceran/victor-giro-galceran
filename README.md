@@ -12,14 +12,16 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Víctor Giró, Software Developer from Spain
+  👋 Hey there, I'm Víctor Giró, a passionate Software Developer from Spain!
   <br>
   <br>
-  🔬 I'm currently studying for my Computer Enginyeer at the Open University of Catalonia
+  🔬 Currently, I'm pursuing my Computer Engineering degree at the Open University of Catalonia.
   <br>
-  🎓 I have a degree in Multiplatform Application Development
+  🎓 With a background in Multiplatform Application Development, I bring a solid foundation to my coding endeavors.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I thrive on writing code and continuously expanding my knowledge in all things tech-related.
+  <br>
+  🔭 Feel free to connect and explore the exciting projects I'm working on!
 </p>
 
 <hr>
