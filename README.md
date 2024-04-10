@@ -25,39 +25,40 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <p align="center">
-  <code><img title="Tailwind" height="25" src="images/tailwind.svg"></code>
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/visual-studio-code.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity.svg"></code>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Power BI" height="25" src="images/power-bi.svg"></code>
-  <code><img title="Postman" height="25" src="images/postman.svg"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
-  <code><img title="Laragon" height="25" src="images/laragon.svg"></code>
-  <code><img title="Node JS" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Kotlin" height="25" src="images/kotlin.svg"></code>
-  <code><img title="Java" height="25" src="images/java.svg"></code>
-  <code><img title="HTML" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css3.svg"></code>
-  <code><img title="javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cplus.svg"></code>
-  <code><img title="C#" height="25" src="images/csharp.svg"></code>
-  <code><img title="Android Studio" height="25" src="images/android-studio.svg"></code>
-  <code><img title="Trello" height="25" src="images/trello.svg"></code>
-  <code><img title="Canva" height="25" src="images/canva.svg"></code>
-  <code><img title="Blender" height="25" src="images/blender.svg"></code>
-  <code><img title="Mongo DB" height="25" src="images/mongodb.svg"></code>
+  <a href="https://tailwindcss.com"><img height="26" align="left" title="Tailwind" src="images/tailwind.svg"/></a>
+  <a href="https://reactjs.org"><img height="32" align="left" title="React" src="images/react.svg"/></a>
+  <a href="https://code.visualstudio.com"><img height="32" align="left" title="Visual Studio Code" src="images/visual-studio-code.svg"/></a>
+  <a href="https://unity.com"><img height="32" align="left" title="Unity" src="images/unity.svg"/></a>
+  <a href="https://www.python.org"><img height="32" align="left" title="Python" src="images/python.svg"/></a>
+  <a href="https://www.microsoft.com/power-platform/products/power-bi"><img height="32" align="left" title="Power BI" src="images/power-bi.svg"/></a>
+  <a href="https://www.postman.com"><img height="32" align="left" title="Postman" src="images/postman.svg"/></a>
+  <a href="https://laravel.com"><img height="32" align="left" title="Laravel" src="images/laravel.svg"/></a>
+  <a href="https://laragon.org"><img height="32" align="left" title="Laragon" src="images/laragon.svg"/></a>
+  <a href="https://nodejs.org"><img height="32" align="left" title="Node JS" src="images/nodejs.svg"/></a>  
+  <a href="https://git-scm.com"><img height="32" align="left" title="Git" src="images/git.svg"/></a>
+  <a href="https://firebase.google.com"><img height="32" align="left" title="Firebase" src="images/firebase.svg"/></a>
+  <a href="https://www.docker.com"><img height="32" align="left" title="Docker" src="images/docker.svg"/></a>
+  <a href="https://www.php.net"><img height="28" align="left" title="PHP" src="images/php.svg"/></a>
+  <a href="https://kotlinlang.org"><img height="32" align="left" title="Kotlin" src="images/kotlin.svg"/></a>
+  <a href="https://www.java.com"><img height="39" align="left" title="Java" src="images/java.svg"/></a>
+  <a href="#"><img height="32" align="left" title="HTML" src="images/html5.svg"/></a>
+  <a href="#"><img height="32" align="left" title="CSS" src="images/css3.svg"/></a>
+  <a href="#"><img height="32" align="left" title="JavaScript" src="images/javascript.svg"/></a>
+  <a href="#"><img height="32" align="left" title="C" src="images/c.svg"/></a>
+  <a href="#"><img height="32" align="left" title="C++" src="images/cplus.svg"/></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img height="32" align="left" title="C#" src="images/csharp.svg"/></a>
+  <a href="https://developer.android.com/studio"><img height="32" align="left" title="Android Studio" src="images/android-studio.svg"/></a>
+  <a href="https://trello.com"><img height="32" align="left" title="Trello" src="images/trello.svg"/></a>
+  <a href="https://www.canva.com"><img height="32" align="left" title="Canva" src="images/canva.svg"/></a>
+  <a href="https://www.blender.org"><img height="32" align="left" title="Blender" src="images/blender.svg"/></a>
+  <a href="https://www.mongodb.com"><img height="32" align="left" title="Mongo DB" src="images/mongodb.svg"/></a>
 </p>
 <hr>
-
+<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
