@@ -60,7 +60,6 @@
   <a href="https://www.mongodb.com"><img height="40" title="Mongo DB" src="images/mongodb.svg"/></a>
 </p>
 <hr>
-<br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
