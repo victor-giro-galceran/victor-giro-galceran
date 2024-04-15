@@ -30,7 +30,7 @@
 <br>
 <p align="center">
   <a href="https://tailwindcss.com"><img height=34" title="Tailwind" src="images/tailwind.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org"><img height="40" title="React" src="images/react.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org"><img height="43" title="React" src="images/react.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com"><img height="40" title="Visual Studio Code" src="images/visual-studio-code.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://unity.com"><img height="40" title="Unity" src="images/unity.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org"><img height="40" title="Python" src="images/python.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,10 +42,10 @@
   <br><br>
   <a href="https://git-scm.com"><img height="40" title="Git" src="images/git.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com"><img height="40" title="Firebase" src="images/firebase.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com"><img height="40" title="Docker" src="images/docker.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img height="50" title="Docker" src="images/docker.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net"><img height="28" title="PHP" src="images/php.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kotlinlang.org"><img height="40" title="Kotlin" src="images/kotlin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com"><img height="40" title="Java" src="images/java.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com"><img height="50" title="Java" src="images/java.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="40" title="HTML" src="images/html5.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="40" title="CSS" src="images/css3.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="40" title="JavaScript" src="images/javascript.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,11 +53,11 @@
   <br><br>
   <a href="#"><img height="40" title="C++" src="images/cplus.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/languages/csharp"><img height="40" title="C#" src="images/csharp.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio"><img height="40" title="Android Studio" src="images/android-studio.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio"><img height="45" title="Android Studio" src="images/android-studio.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://trello.com"><img height="40" title="Trello" src="images/trello.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.canva.com"><img height="40" title="Canva" src="images/canva.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.blender.org"><img height="40" title="Blender" src="images/blender.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com"><img height="40" title="Mongo DB" src="images/mongodb.svg"/></a>
+  <a href="https://www.mongodb.com"><img height="45" title="Mongo DB" src="images/mongodb.svg"/></a>
 </p>
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
