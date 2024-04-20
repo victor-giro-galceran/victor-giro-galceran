@@ -42,9 +42,9 @@
   <br><br>
   <a href="https://git-scm.com"><img height="40" title="Git" src="images/git.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com"><img height="40" title="Firebase" src="images/firebase.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com"><img height="50" title="Docker" src="images/docker.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net"><img height="28" title="PHP" src="images/php.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com"><img height="50" title="Docker" src="images/docker.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;  
   <a href="https://kotlinlang.org"><img height="40" title="Kotlin" src="images/kotlin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net"><img height="40" title="PHP" src="images/php.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com"><img height="50" title="Java" src="images/java.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="40" title="HTML" src="images/html5.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img height="40" title="CSS" src="images/css3.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
